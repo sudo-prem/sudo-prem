@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 <p>
-    <a href="https://premnaaath.github.io/">
+    <a href="https://premnaaath.github.io/" target="_blank">
     <img align="left" width="24px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  />
     </a>
-    <a href="mailto:premnaathvaradharajan@gmail.com">
+    <a href="mailto:premnaathvaradharajan@gmail.com" target="_blank">
     <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"  />
     </a>
-    <a href="https://www.linkedin.com/in/premnaath/">
+    <a href="https://www.linkedin.com/in/premnaath/" target="_blank">
     <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
     </a>
-    <a href="https://twitter.com/premnaaath">
+    <a href="https://twitter.com/premnaaath" target="_blank">
     <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"  />
     </a>
     <br>
