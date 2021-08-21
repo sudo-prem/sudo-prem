@@ -10,13 +10,13 @@
     <a href="https://www.linkedin.com/in/premnaath/">
     <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
     </a>
-    <a href="https://twitter.com/premnaaath">
-    <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"  />
-    </a>
     <!-- <a href="https://leetcode.com/premnaaath/"> -->
     <a href="https://leetcode.com/premnaath-varadharajan/">
     <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg"  />
-    </a>    
+    </a>   
+    <a href="https://twitter.com/premnaaath">
+    <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"  />
+    </a> 
     <br>
 </p>
 
