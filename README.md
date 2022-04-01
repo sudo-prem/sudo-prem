@@ -2,7 +2,7 @@
     <a href="https://twitter.com/premnaaath">
     <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"  />
     </a> 
-    <a href="https://premnaaath.github.io/">
+    <a href="https://area-77.github.io/">
     <img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"  />
     </a>
     <a href="https://www.linkedin.com/in/premnaath/">
@@ -14,4 +14,4 @@
     <br>
 </p>
 
-![Premnaath's github stats](https://github-readme-stats.vercel.app/api?username=premnaaath&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide=issues,stars)
+![Premnaath's github stats](https://github-readme-stats.vercel.app/api?username=AREA-77&show_icons=true&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide=issues,stars)
